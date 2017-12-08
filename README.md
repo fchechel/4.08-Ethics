@@ -65,8 +65,8 @@
 	- Recitals (8 min)
 	- Class discussions (10 min)
 - **Resolutions** (27 min)
-        - Available options (2 min)
-        - LIME (25 min)
+	- Available options (2 min)
+	- LIME (25 min)
 
 ---
 
