@@ -1,8 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Explainable Models
 
-> Unit X, Lesson Y
-
-<!--- This template is an instructor-facing description of lesson contents. Students who fork these repos may also be able to view. --->
+> Week 11, Lesson 4
 
 ---
 
@@ -14,15 +12,6 @@
 | Lesson | Interactive jupyter notebook with structured lesson content | [Link](./explainable-models.ipynb)|
 | Data | Titanic dataset | [Link](./datasets/titanic.csv)|
 | Relevant Video | The Era of Blind Faith in Big Data Must End  | [Link](https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end) |
-
-> Dataset description: The usual Titanic data; chosen because everybody knows what the answer should look like
->
-> Note that this topic is unusual. You will find it easy to generate class discussions -- they will probably happen
-> spontaneously! -- but there is very little hands-on coding.
->
-> It is also possible that some students may have emotionally traumatising stories to tell of their experiences.
-> If this happens, remind your class of their responsibilities to make the world a better place; and support
-> your students in whatever way possible.
 
 ---
 
@@ -45,28 +34,6 @@
 - Slice columns from pandas dataframes and numpy arrays
 - Create a K-Nearest-Neighbor classifier using scikit-learn
 - Understand what a linear model is, and a linear classifier boundary
-
----
-
-## Lesson Outline
-
-<!--- This section outlines the lesson plan with relevant sections and subsections, providing both the total time required as well as suggestions for timing in each subsection --->
-
-> Total Time: 82 min. 
-
-- **Introduction** (10m)
-  - Observations of national approaches to racism (5 min)
-  - Ethical responsibilities of data scientists (5 min)
-- **Blackbox models**  (20m)
-	- Comparisons of black-box vs explainable (5 min)
-	- Class discussion (15 min)
-- **EU GDPR** (25 min)
-	- Articles (7 min)
-	- Recitals (8 min)
-	- Class discussions (10 min)
-- **Resolutions** (27 min)
-	- Available options (2 min)
-	- LIME (25 min)
 
 ---
 
