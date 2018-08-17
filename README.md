@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Explainable Models
 
-> Week 11, Lesson 4
+> Week 1, Lesson 8
 
 ---
 
@@ -10,7 +10,6 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Interactive jupyter notebook with structured lesson content | [Link](./explainable-models.ipynb)|
-| Data | Titanic dataset | [Link](./datasets/titanic.csv)|
 | Relevant Video | The Era of Blind Faith in Big Data Must End  | [Link](https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end) |
 
 ---
@@ -18,22 +17,8 @@
 ## Learning Objectives
 <!--- This section lists the learning objectives of the lesson. For information on how to write clear learning objectives, see: http://ii.library.jhu.edu/2016/07/20/writing-effective-learning-objectives/ --->
 
-- **Define** some of the political, ethical and economic ramifications of using black-box models in data science.
-- **Describe** the features of explainable vs non-explainable (black-box) models
-- **Define and discuss** the global implications of the EU GDPR
-- Use LIME to **explain** a black-box model
-
----
-
-## Student Requirements
-<!--- This section explains the relevant prerequisites; in other words, what do students need to know to be able to benefit and perform the tasks required in this lesson? This includes lists of skills or prior learning objectives --->
-
-**Before this lesson(s), students should already be able to**:
-- Define what a classifier is
-- Perform a train-test split on a dataset
-- Slice columns from pandas dataframes and numpy arrays
-- Create a K-Nearest-Neighbor classifier using scikit-learn
-- Understand what a linear model is, and a linear classifier boundary
+- Describe some examples where data science and machine learning have been misused.
+- List high-level areas of concern in data science ethics.
 
 ---
 
